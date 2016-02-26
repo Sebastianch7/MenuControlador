@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MenuControlador</string>
+    <string name="small">texto1</string>
+    <string name="medio">texto2</string>
+    <string name="largo">texto3</string>
+
+    <string-array name="typeFonts">
+        <item>Arial</item>
+        <item>Century</item>
+        <item>Futura</item>
+        <item>Gillsans</item>
+        <item>Times</item>
+    </string-array>
+
+    <string-array name="resourseTypeFonts">
+        <item>"fonts/Arial.ttf"</item>
+        <item>"fonts/Century.ttf"</item>
+        <item>"fonts/Futura.ttf"</item>
+        <item>"fonts/Gillsans.ttf"</item>
+        <item>"fonts/Times.ttf"</item>
+    </string-array>
+</resources>
